@@ -1,0 +1,24 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "ingintion of project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankoo/NamasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "namaster",
+    "react"
+  ],
+  "author": "shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankoo/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/shashankoo/NamasteReact#readme"
+}
